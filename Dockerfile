@@ -4,7 +4,7 @@
 # Base image is Ubuntu
 FROM ubuntu:14.04
 # Author: Vinod Singh
-MAINTAINER Vinod Singh <vinod.puchi@gmail.com>
+MAINTAINER Garry Gu <garrygu@gmail.com>
 # create 'mynewdir' and 'mynewfile'
 RUN mkdir mynewdir
 RUN touch /mynewdir/mynewfile
